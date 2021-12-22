@@ -1,4 +1,4 @@
-## Olá eu sou João Vitor!!
+## Oi eu sou o João Vitor ㊙!!
 
 - 🔭 Atualmente trabalho com .Net
 - 🌱 Estou estudando CyberSecurity e Ethical Hacking
