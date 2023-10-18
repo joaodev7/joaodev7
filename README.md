@@ -2,6 +2,7 @@
 
 - 🔭 Atualmente trabalho com .Net
 - 🌱 Estou estudando CyberSecurity e Ethical Hacking
+- https://joaodev7.github.io/portifolio/
 
 <div align="center">
   <a href="https://github.com/joaodev7">
